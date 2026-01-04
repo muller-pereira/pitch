@@ -13,9 +13,9 @@
 
 * Realizar análise exploratória dos dados (EDA)
 
-* Prever a qualidade contínua das frutas por meio de Regressão Linear
+* Prever a qualidade contínua das laranjas por meio de Regressão Linear
 
-* Classificar frutas em boa ou baixa qualidade usando Perceptron
+* Classificar laranjas em boa ou baixa qualidade usando Perceptron
 
 * Comparar os fatores mais relevantes em cada abordagem
 
@@ -26,7 +26,7 @@
 
 Dataset real obtido no Kaggle.
 
-Cada amostra representa uma fruta com atributos físicos e químicos.
+Cada amostra representa uma laranja com atributos físicos e químicos.
 
 Principais variáveis utilizadas:
 
@@ -156,3 +156,4 @@ Müller Pereira
 >Professor de Matemática | Ciência de Dados | Aprendizado de Máquina
 
 ---
+
