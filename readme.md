@@ -1,12 +1,12 @@
-# 🍊 Previsão e Classificação da Qualidade de Frutas com Aprendizado de Máquina
+# 🍊 Previsão e Classificação da Qualidade de Laranjas com Aprendizado de Máquina
 
->Este projeto aplica técnicas de Aprendizado de Máquina supervisionado para prever e classificar a qualidade de frutas a partir de características físicas e químicas, utilizando dados reais. O estudo compara modelos de regressão e classificação, enfatizando interpretação, robustez e boas práticas de avaliação.
+> Este projeto aplica técnicas de Aprendizado de Máquina supervisionado para prever e classificar a qualidade de laranjas a partir de características físicas e químicas, utilizando dados reais. O estudo compara modelos de regressão e classificação, enfatizando interpretação, robustez e boas práticas de avaliação.
 ---
 
 ## 📌 Objetivos
 ### 🎯 Objetivo Geral
 
->Investigar a relação entre características físicas e químicas das frutas e sua qualidade final, utilizando modelos de regressão e classificação baseados em aprendizado de máquina.
+> Investigar a relação entre características físicas e químicas das laranjas e sua qualidade final, utilizando modelos de regressão e classificação baseados em aprendizado de máquina.
 ---
 
 ### 🎯 Objetivos Específicos
@@ -154,4 +154,5 @@ Variáveis mais importantes:
 Müller Pereira
 
 >Professor de Matemática | Ciência de Dados | Aprendizado de Máquina
+
 ---
